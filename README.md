@@ -6,4 +6,5 @@ If you think our interests align, do reach out!
 Currently: Python Intern @ [Jouve India Pvt. Ltd.](https://jouve.in/)
 
 Get in touch: [jamalhaneefahmed@gmail.com](mailto:jamalhaneefahmed@gmail.com)
+\n
 [Portfolio](https://jamal-haneef.vercel.app/)
