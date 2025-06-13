@@ -4,7 +4,10 @@ I have broad interests in front-end development and AI integrations. You can fin
 If you think our interests align, do reach out!
 
 **Currently:**  
-Founder / Lead Developer @ [Wurks Studio](https://www.wurks.studio/)
+Solo Freelance Agency - [Wurks Studio](https://www.wurks.studio/)
+
+**Previously:**
+Junior Python Developer - [Jouve India](http://jouve.in/)
 
 #### Frontend
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
