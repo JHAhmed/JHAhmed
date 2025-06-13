@@ -6,7 +6,7 @@ If you think our interests align, do reach out!
 **Currently:**  
 Solo Freelance Agency - [Wurks Studio](https://www.wurks.studio/)
 
-**Previously:**
+**Previously:**  
 Junior Python Developer - [Jouve India](http://jouve.in/)
 
 #### Frontend
